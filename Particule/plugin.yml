@@ -1,0 +1,8 @@
+name: FantasiaCraftParticle
+version: 1.0.2.6
+author: Raphaël
+main: fr.raphael.particule.Main
+api-version: 1.13
+commands:
+  particle:
+    description: Utiliser cette commande pour faire apparaître le menu des particules
